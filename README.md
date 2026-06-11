@@ -1,1 +1,1 @@
-# Database-Management-Systems-Intro-SQL-Assignment
+Kendise Kwanimah Quartey, 42432028
